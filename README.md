@@ -1,12 +1,12 @@
-# 📈 Sales and Profit Dashboard
+# 📈 Sales and Profit Dashboard (Excel)
 
-Welcome to the **Sales and Profit Dashboard**, a Power BI project that analyzes business performance across categories, years, customers, and regions. This dashboard provides interactive visualizations and key metrics to help track sales growth, profitability, and customer trends.
+Welcome to the **Sales and Profit Dashboard**, a business analytics project built using Microsoft Excel. This dashboard provides interactive visualizations and key metrics to help track sales growth, profitability, customer trends, and product performance across categories, years, and regions.
 
 ---
 
 ## 📊 Project Overview
 
-This dashboard was built using **Power BI**, **DAX**, and **Power Query**, and analyzes over **$1.9 million in sales** and **$247K in profit** across multiple years and product categories.
+This dashboard was created using **Excel**, leveraging pivot tables, slicers, charts, and formulas to analyze over **$1.9 million in sales** and **$247K in profit** across multiple years and product categories.
 
 ---
 
@@ -15,7 +15,7 @@ This dashboard was built using **Power BI**, **DAX**, and **Power Query**, and a
 ### 💰 Total Performance  
 - **Total Sales:** $1,928,888  
 - **Total Profit:** $247,962  
-- Visualized using KPI cards and category breakdowns.
+- Displayed using KPI cards and category breakdowns.
 
 ### 📆 Profit by Year & Category  
 - Year-wise profit trends for **Furniture**, **Office Supplies**, and **Technology**  
@@ -38,21 +38,20 @@ This dashboard was built using **Power BI**, **DAX**, and **Power Query**, and a
 - Supports geographic performance analysis.
 
 ### 📅 Monthly Sales Trends  
-- Bar chart showing monthly sales (Jan–Dec)  
+- Monthly sales visualized using bar charts  
 - Highest sales in months 11 and 12; lowest in month 6
 
 ### 🎛️ Interactive Filters  
-- Filter by **Category**, **Year**, and **Month**  
+- Filter by **Category**, **Year**, and **Month** using slicers  
 - Enables dynamic exploration of sales and profit metrics
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **Power BI** – Dashboard creation and visualization  
-- **DAX** – Custom measures and calculated columns  
-- **Power Query** – Data transformation and modeling  
-- **Excel** – Source data preparation
+- **Microsoft Excel** – Dashboard creation, pivot tables, slicers, and charts  
+- **Formulas** – SUMIFS, VLOOKUP, IF, and custom calculations  
+- **Data Modeling** – Structured tables and relationships for clean analysis
 
 ---
 
@@ -62,8 +61,3 @@ This dashboard was built using **Power BI**, **DAX**, and **Power Query**, and a
 - Profitability analysis by category and time  
 - Customer segmentation and targeting  
 - Regional sales strategy and planning
-
----
-
-## 📁 Repository Structure
-
